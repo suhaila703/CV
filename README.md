@@ -1,3 +1,3 @@
 # CV Repository
 
-This repository contains files related to my Curriculum Vitae and personal projects.
+This repository contains files related to CV course lab tasks
